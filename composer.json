@@ -1,7 +1,6 @@
 {
   "name": "apptha/social-login",
   "type": "magento-module",
-  "version": "0.2.0",
   "authors":[
     {
       "name":"Apptha"
