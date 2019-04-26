@@ -1,0 +1,9 @@
+{
+  "name": "apptha/social-login",
+  "type": "magento-module",
+  "authors":[
+    {
+      "name":"Apptha"
+    }
+  ]
+}
