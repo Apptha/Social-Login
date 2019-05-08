@@ -5,7 +5,7 @@ app/design/frontend/base/default/template/sociallogin       app/design/frontend/
 app/etc/modules/Apptha_Sociallogin.xml                      app/etc/modules/Apptha_Sociallogin.xml
 app/locale/en_US/Apptha_Sociallogin.csv                     app/locale/en_US/Apptha_Sociallogin.csv
 app/locale/ru_RU/Apptha_Sociallogin.csv                     app/locale/ru_RU/Apptha_Sociallogin.csv
-js/sociallogin                                              js/js/sociallogin
-lib/sociallogin                                             lib/js/sociallogin
+js/sociallogin                                              js/sociallogin
+lib/sociallogin                                             lib/sociallogin
 skin/adminhtml/default/default/sociallogin                  skin/adminhtml/default/default/sociallogin
 skin/frontend/base/default/sociallogin                      skin/frontend/base/default/sociallogin
